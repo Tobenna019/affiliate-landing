@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Start Your Affiliate Journey</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(120deg, #f9f9f9, #e0f7fa);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    .container {
+      max-width: 500px;
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h1 {
+      font-size: 2em;
+      color: #00796b;
+    }
+    p {
+      font-size: 1.1em;
+      color: #333;
+      margin: 20px 0;
+    }
+    a.button {
+      display: inline-block;
+      background: #00796b;
+      color: #fff;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #004d40;
+    }
+  </style>
+</head>
+<body><img src="cover.png" alt="Affiliate Banner" style="max-width:100%; border-radius:12px; margin-bottom:20px;" />
+
+  <div class="container">
+    <h1>Start Your Affiliate Journey Today</h1>
+    <p>
+      Ready to turn your passion into passive income? Discover a step-by-step system that helps beginners earn online by promoting the products they love. No experience needed.  
+      <br><br>
+      Learn how thousands are building income streams using simple tools and proven strategies. Your journey starts with just one click.
+    </p>
+    <a <a class="button" href="https://aff.stakecut.com/942869/18693518" target="_blank">Download Now</a>
+
+
+  </div>
+</body>
+</html>
